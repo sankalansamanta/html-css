@@ -1,0 +1,30 @@
+body{
+background-image:linear-gradient(55deg,red,pink);
+#btn1{
+padding:8px 25px;
+border-radius:10px;
+border:none;
+background:skyblue;
+box-shadow:0 0 8px blue;
+font size:15px;
+cursor:pointer;
+}
+#btn2{
+padding:8px 25px;
+border-radius:10px;
+border:none;
+background:skyblue;
+box-shadow:0 0 8px blue;
+font size:15px;
+cursor:pointer;
+}
+#btn1:hover{
+background:blue:
+box-shadow:0 0 5px white
+color:white;
+}
+#btn2:hover{
+background:yellow:
+box-shadow:0 0 5px white
+color:white;
+}

@@ -1,0 +1,5 @@
+body{font-size:medium;font-family:Calibri,sams-serif;}
+#DivWrapper{width:700px;height:500px;margin:auto;border:1px solid black;}
+#DivHeader{width:100%;height:100px;margin:auto;float:left;position:relative;background:navy;color:white;font-size:large;text-align:center;}
+#DivContent{width:100%;height:375px;float:left;position:relative;background:#b8a9ff}
+#DivFooter{width:100%;height:25px;float:left;position:relative;font-size:small;text-align:center;background:navy;color:white;}
